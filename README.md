@@ -2,7 +2,7 @@
 
 <h4> 2 degrees of freedom, mouse controlled, laser pointer. </h4>
 
-Arduino code is used to control the Arduino board, and a python script is used to take input from mouse movement. I used chatgpt to make the code a bit clear.
+Arduino code is used to control the Arduino board, and a python script is used to take input from mouse movement.
 
 <h1>Components Required:</h1>
 Arduino board, 
@@ -21,5 +21,7 @@ Ground wire (usually brown or black): Connect to Arduino GND.
 Signal wire (yellow or orange): Connect to Arduino pin 10.
 Power wire (red): Connect to 5V on Arduino or an external power supply.
 Ground wire (brown or black): Connect to Arduino GND.
+
+I used chatgpt to make the code a bit clear.
 
 This is the [Demo Video Drive Link](https://drive.google.com/file/d/1wCMP-pZWOiva9e8gSCG3lFkVZ6rALxNG/view?usp=sharing).
